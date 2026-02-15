@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy solution file
-COPY Mauvestepbackend.sln .
+COPY MauvestepBackend.sln .
 
 # Copy project files
 COPY API/API.csproj API/
