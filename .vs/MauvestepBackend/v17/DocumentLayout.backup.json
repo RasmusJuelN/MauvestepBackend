@@ -1,441 +1,430 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\",
+  "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260208094646_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260206092528_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260203090216_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260202170432_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260202151751_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260129080938_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260127102014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260127092119_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260127091712_added-enum-to-ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260127085333_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260127085215_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\iforumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\iforumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\iforumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\forumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\forumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\forumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\forumcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\forumcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\forumcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\forumcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\forumcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\forumcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\iforumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\iforumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\iforumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\forumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\forumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\forumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\forumpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\forumpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\forumpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\forumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\forumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\forumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\forumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\forumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\forumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\bugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\bugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\bugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\commentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\commentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\commentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\faqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\faqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\faqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\postratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\postratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\postratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\forumpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\forumpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\forumpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\forumthreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\forumthreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\forumthreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\forumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\forumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\forumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\forumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\forumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\forumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\forumthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\forumthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\forumthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\forumcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\forumcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\forumcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\commentrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\commentrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\commentrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\forumpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\forumpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\forumpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\postrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\postrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\postrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\forumcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\forumcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\forumcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\forumpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\forumpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\forumpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\highscorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\highscorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\highscorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\abilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\abilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\abilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\abilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\abilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\abilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iabilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\models\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\models\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\models\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\iabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\iabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\iabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\supportticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\supportticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\supportticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\newsarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\newsarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\newsarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\highscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\highscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\highscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\abilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\abilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\abilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\forumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\forumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\forumcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\isupportticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\isupportticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\isupportticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\ihighscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\ihighscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\ihighscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iforumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iforumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iforumthreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iforumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iforumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iforumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iforumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iforumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iforumcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\iforumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\iforumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\iforumcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\ifaqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\ifaqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\ifaqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\ibugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\ibugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\ibugreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\interfaces\\icommentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\interfaces\\icommentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\interfaces\\icommentratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\services\\highscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\highscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\highscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\supportticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\supportticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\supportticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\migrations\\20260208094734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\migrations\\20260208094734_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\forumthreadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\forumthreadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\forumthreadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\bugreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\bugreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\bugreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\ibugreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\ibugreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\ibugreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\highscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\highscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\highscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\forumcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\forumcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\forumcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\interfaces\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestep-project\\mauvestepbackend\\api\\dtos\\forumthreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\forumthreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\forumthreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -446,7 +435,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -454,35 +443,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260215121410_init.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs",
+              "RelativeDocumentMoniker": "Database\\Migrations\\20260215121410_init.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs",
+              "RelativeToolTip": "Database\\Migrations\\20260215121410_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:14:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\UserService.cs",
-              "RelativeToolTip": "API\\Services\\UserService.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAUwNYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T09:09:39.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T08:16:00.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "API\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -490,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
               "RelativeToolTip": "API\\Interfaces\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -502,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "API\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
               "RelativeToolTip": "API\\Services\\JwtService.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -526,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "IForumCommentService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IForumCommentService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
               "RelativeToolTip": "API\\Interfaces\\IForumCommentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -540,9 +518,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "FeedbackService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FeedbackService.cs",
               "RelativeDocumentMoniker": "API\\Services\\FeedbackService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FeedbackService.cs",
               "RelativeToolTip": "API\\Services\\FeedbackService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,24 +541,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 19,
               "Title": "API.csproj",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\API.csproj",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\API.csproj",
               "RelativeToolTip": "API\\API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-26T11:25:32.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T11:25:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:16:00.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs",
+              "RelativeToolTip": "API\\Services\\UserService.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAUwNYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:09:39.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ForumCommentService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumCommentService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCommentService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumCommentService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumCommentService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCommentService.cs",
               "RelativeToolTip": "API\\Services\\ForumCommentService.cs",
               "ViewState": "AgIAAGkAAAAAAAAAAAAUwKsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ForumCommentsController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumCommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCommentsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumCommentsController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumCommentsController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCommentsController.cs",
               "RelativeToolTip": "API\\Controllers\\ForumCommentsController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -600,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ForumCategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCategoriesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumCategoriesController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumCategoriesController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCategoriesController.cs",
               "RelativeToolTip": "API\\Controllers\\ForumCategoriesController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -612,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IForumCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IForumCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCategoryService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IForumCategoryService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IForumCategoryService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCategoryService.cs",
               "RelativeToolTip": "API\\Interfaces\\IForumCategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FeedbackController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FeedbackController.cs",
               "RelativeToolTip": "API\\Controllers\\FeedbackController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "API\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ForumPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumPostRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumPostRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumPostRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumPostRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\ForumPostRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -660,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ForumPostDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumPostDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumPostDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumPostDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumPostDto.cs",
               "RelativeToolTip": "API\\DTOs\\ForumPostDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -672,11 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ForumCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCommentRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumCommentRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumCommentRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCommentRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\ForumCommentRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "FeedbackRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FeedbackRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\FeedbackRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FeedbackRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\FeedbackRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ForumCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCategoryRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCategoryRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\ForumCategoryRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -708,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "BugReportRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\BugReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\BugReportRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\BugReportRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\BugReportRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\BugReportRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\BugReportRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -720,11 +721,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "CharacterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\CharacterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CharacterRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\CharacterRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\CharacterRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CharacterRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\CharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -732,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CommentRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\CommentRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CommentRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\CommentRatingRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\CommentRatingRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CommentRatingRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\CommentRatingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -744,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "FAQRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\FAQRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FAQRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\FAQRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\FAQRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FAQRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\FAQRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -756,11 +757,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "PostRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\PostRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\PostRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\PostRatingRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\PostRatingRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\PostRatingRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\PostRatingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -768,11 +769,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "NewsArticle.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "Database\\Models\\NewsArticle.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\NewsArticle.cs",
               "RelativeToolTip": "Database\\Models\\NewsArticle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -780,11 +781,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ForumPostService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumPostService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumPostService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumPostService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumPostService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumPostService.cs",
               "RelativeToolTip": "API\\Services\\ForumPostService.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAmwJEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -792,11 +793,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ForumThreadService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumThreadService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumThreadService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumThreadService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumThreadService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumThreadService.cs",
               "RelativeToolTip": "API\\Services\\ForumThreadService.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -804,11 +805,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ForumThreadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumThreadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumThreadRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumThreadRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\ForumThreadRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumThreadRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\ForumThreadRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -816,11 +817,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "FAQService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\FAQService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FAQService.cs",
               "RelativeDocumentMoniker": "API\\Services\\FAQService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\FAQService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FAQService.cs",
               "RelativeToolTip": "API\\Services\\FAQService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -828,11 +829,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ForumCategory.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumCategory.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumCategory.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumCategory.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumCategory.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumCategory.cs",
               "RelativeToolTip": "Database\\Models\\ForumCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -840,11 +841,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "ForumThread.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumThread.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumThread.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumThread.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumThread.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumThread.cs",
               "RelativeToolTip": "Database\\Models\\ForumThread.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -852,11 +853,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ForumComment.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumComment.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumComment.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumComment.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumComment.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumComment.cs",
               "RelativeToolTip": "Database\\Models\\ForumComment.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -864,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "BugReport.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\BugReport.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\BugReport.cs",
               "RelativeDocumentMoniker": "Database\\Models\\BugReport.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\BugReport.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\BugReport.cs",
               "RelativeToolTip": "Database\\Models\\BugReport.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -876,11 +877,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Character.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Character.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Character.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Character.cs",
               "RelativeToolTip": "Database\\Models\\Character.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -888,11 +889,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "CommentRating.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\CommentRating.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\CommentRating.cs",
               "RelativeDocumentMoniker": "Database\\Models\\CommentRating.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\CommentRating.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\CommentRating.cs",
               "RelativeToolTip": "Database\\Models\\CommentRating.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -900,11 +901,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "FAQ.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\FAQ.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\FAQ.cs",
               "RelativeDocumentMoniker": "Database\\Models\\FAQ.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\FAQ.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\FAQ.cs",
               "RelativeToolTip": "Database\\Models\\FAQ.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -912,11 +913,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ForumPost.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumPost.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumPost.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumPost.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\ForumPost.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumPost.cs",
               "RelativeToolTip": "Database\\Models\\ForumPost.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -924,11 +925,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Highscore.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Highscore.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Highscore.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Highscore.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Highscore.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Highscore.cs",
               "RelativeToolTip": "Database\\Models\\Highscore.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -936,11 +937,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "PostRating.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\PostRating.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\PostRating.cs",
               "RelativeDocumentMoniker": "Database\\Models\\PostRating.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\PostRating.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\PostRating.cs",
               "RelativeToolTip": "Database\\Models\\PostRating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -948,11 +949,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\User.cs",
               "RelativeDocumentMoniker": "Database\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\User.cs",
               "RelativeToolTip": "Database\\Models\\User.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAcwBwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -960,11 +961,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "SupportTicket.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\SupportTicket.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\SupportTicket.cs",
               "RelativeDocumentMoniker": "Database\\Models\\SupportTicket.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\SupportTicket.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\SupportTicket.cs",
               "RelativeToolTip": "Database\\Models\\SupportTicket.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wBoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -972,11 +973,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Feedback.cs",
               "RelativeToolTip": "Database\\Models\\Feedback.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -984,11 +985,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "ForumCommentDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCommentDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumCommentDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumCommentDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCommentDto.cs",
               "RelativeToolTip": "API\\DTOs\\ForumCommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -996,11 +997,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "ForumPostsController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumPostsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumPostsController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumPostsController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumPostsController.cs",
               "RelativeToolTip": "API\\Controllers\\ForumPostsController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAowCAAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1008,11 +1009,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "HighscoresController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\HighscoresController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\HighscoresController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\HighscoresController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\HighscoresController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\HighscoresController.cs",
               "RelativeToolTip": "API\\Controllers\\HighscoresController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1020,11 +1021,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "AbilityDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\AbilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\AbilityDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\AbilityDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\AbilityDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\AbilityDto.cs",
               "RelativeToolTip": "API\\DTOs\\AbilityDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1032,11 +1033,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "AbilityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\AbilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\AbilityRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\AbilityRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\AbilityRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\AbilityRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\AbilityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1044,11 +1045,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "IAbilityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IAbilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IAbilityRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IAbilityRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IAbilityRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IAbilityRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IAbilityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1056,11 +1057,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Ability.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Ability.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Ability.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Ability.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Models\\Ability.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Ability.cs",
               "RelativeToolTip": "Database\\Models\\Ability.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1068,11 +1069,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "ICharacterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ICharacterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICharacterRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ICharacterRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ICharacterRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICharacterRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\ICharacterRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1080,11 +1081,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "ICharacterService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\ICharacterService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\ICharacterService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\ICharacterService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\ICharacterService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\ICharacterService.cs",
               "RelativeToolTip": "API\\Interfaces\\ICharacterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1092,11 +1093,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "IAbilityService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IAbilityService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IAbilityService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IAbilityService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IAbilityService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IAbilityService.cs",
               "RelativeToolTip": "API\\Interfaces\\IAbilityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1104,11 +1105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "SupportTicketDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\SupportTicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\SupportTicketDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\SupportTicketDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\SupportTicketDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\SupportTicketDto.cs",
               "RelativeToolTip": "API\\DTOs\\SupportTicketDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1116,11 +1117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "NewsArticleDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\NewsArticleDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\NewsArticleDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\NewsArticleDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\NewsArticleDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\NewsArticleDto.cs",
               "RelativeToolTip": "API\\DTOs\\NewsArticleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1128,11 +1129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "HighscoreDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\HighscoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\HighscoreDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\HighscoreDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\HighscoreDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\HighscoreDto.cs",
               "RelativeToolTip": "API\\DTOs\\HighscoreDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1140,11 +1141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "AbilitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\AbilitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AbilitiesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AbilitiesController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\AbilitiesController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AbilitiesController.cs",
               "RelativeToolTip": "API\\Controllers\\AbilitiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1152,11 +1153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "CharactersController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\CharactersController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\CharactersController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CharactersController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\CharactersController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\CharactersController.cs",
               "RelativeToolTip": "API\\Controllers\\CharactersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1164,11 +1165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "CharacterDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\CharacterDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\CharacterDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\CharacterDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\CharacterDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\CharacterDto.cs",
               "RelativeToolTip": "API\\DTOs\\CharacterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1176,11 +1177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "ForumCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCategoryService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumCategoryService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\ForumCategoryService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCategoryService.cs",
               "RelativeToolTip": "API\\Services\\ForumCategoryService.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAmwF0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1188,11 +1189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Database\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Database\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1200,11 +1201,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1212,11 +1213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "ISupportTicketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ISupportTicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ISupportTicketRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ISupportTicketRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ISupportTicketRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ISupportTicketRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\ISupportTicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1224,11 +1225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1236,11 +1237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "INewsArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\INewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\INewsArticleRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\INewsArticleRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\INewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\INewsArticleRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\INewsArticleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1248,11 +1249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "IHighscoreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IHighscoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IHighscoreRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IHighscoreRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IHighscoreRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IHighscoreRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IHighscoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1260,11 +1261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "IForumThreadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumThreadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumThreadRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumThreadRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumThreadRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumThreadRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IForumThreadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1272,11 +1273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "IForumPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumPostRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumPostRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumPostRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumPostRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IForumPostRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1284,11 +1285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "IForumCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCommentRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumCommentRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumCommentRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCommentRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IForumCommentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1296,11 +1297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "IForumCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCategoryRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IForumCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCategoryRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IForumCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1308,11 +1309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "IFeedbackRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFeedbackRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IFeedbackRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFeedbackRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IFeedbackRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1320,11 +1321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "IFAQRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IFAQRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFAQRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IFAQRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IFAQRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFAQRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IFAQRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1332,11 +1333,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "IBugReportRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IBugReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IBugReportRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IBugReportRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\IBugReportRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IBugReportRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\IBugReportRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1344,11 +1345,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "ICommentRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ICommentRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICommentRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ICommentRatingRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Interfaces\\ICommentRatingRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICommentRatingRepository.cs",
               "RelativeToolTip": "Database\\Interfaces\\ICommentRatingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1356,11 +1357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "SupportTicketService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\SupportTicketService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\SupportTicketService.cs",
               "RelativeDocumentMoniker": "API\\Services\\SupportTicketService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\SupportTicketService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\SupportTicketService.cs",
               "RelativeToolTip": "API\\Services\\SupportTicketService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1368,11 +1369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "NewsArticleService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\NewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\NewsArticleService.cs",
               "RelativeDocumentMoniker": "API\\Services\\NewsArticleService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\NewsArticleService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\NewsArticleService.cs",
               "RelativeToolTip": "API\\Services\\NewsArticleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1380,11 +1381,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "HighscoreService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\HighscoreService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\HighscoreService.cs",
               "RelativeDocumentMoniker": "API\\Services\\HighscoreService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Services\\HighscoreService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\HighscoreService.cs",
               "RelativeToolTip": "API\\Services\\HighscoreService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwBkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1392,24 +1393,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "Database.csproj",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Database.csproj",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Database.csproj",
               "RelativeDocumentMoniker": "Database\\Database.csproj",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Database.csproj",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Database.csproj",
               "RelativeToolTip": "Database\\Database.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-11T10:52:18.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T10:52:18.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "SupportTicketsController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\SupportTicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\SupportTicketsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\SupportTicketsController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\SupportTicketsController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\SupportTicketsController.cs",
               "RelativeToolTip": "API\\Controllers\\SupportTicketsController.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1420,33 +1420,21 @@
               "DocumentIndex": 2,
               "Title": "20260208094646_addrating.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260208094646_addrating.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260208094646_addrating.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-08T09:46:46.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "20260208094734_init.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094734_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260208094734_init.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094734_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260208094734_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T09:47:34.145Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20260206092528_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260206092528_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260206092528_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T09:25:28.903Z"
@@ -1455,9 +1443,9 @@
               "$type": "Document",
               "DocumentIndex": 92,
               "Title": "ForumThreadsController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumThreadsController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumThreadsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumThreadsController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\ForumThreadsController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumThreadsController.cs",
               "RelativeToolTip": "API\\Controllers\\ForumThreadsController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1467,9 +1455,9 @@
               "$type": "Document",
               "DocumentIndex": 93,
               "Title": "FAQController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\FAQController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FAQController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\FAQController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\FAQController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FAQController.cs",
               "RelativeToolTip": "API\\Controllers\\FAQController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1479,9 +1467,9 @@
               "$type": "Document",
               "DocumentIndex": 94,
               "Title": "BugReportsController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\BugReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\BugReportsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BugReportsController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\BugReportsController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\BugReportsController.cs",
               "RelativeToolTip": "API\\Controllers\\BugReportsController.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1491,9 +1479,9 @@
               "$type": "Document",
               "DocumentIndex": 95,
               "Title": "IBugReportService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IBugReportService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IBugReportService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IBugReportService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IBugReportService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IBugReportService.cs",
               "RelativeToolTip": "API\\Interfaces\\IBugReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1503,9 +1491,9 @@
               "$type": "Document",
               "DocumentIndex": 96,
               "Title": "NewsArticlesController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\NewsArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\NewsArticlesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\NewsArticlesController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Controllers\\NewsArticlesController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\NewsArticlesController.cs",
               "RelativeToolTip": "API\\Controllers\\NewsArticlesController.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1515,9 +1503,9 @@
               "$type": "Document",
               "DocumentIndex": 97,
               "Title": "IFeedbackService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFeedbackService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IFeedbackService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFeedbackService.cs",
               "RelativeToolTip": "API\\Interfaces\\IFeedbackService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1527,9 +1515,9 @@
               "$type": "Document",
               "DocumentIndex": 98,
               "Title": "HighscoreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\HighscoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\HighscoreRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\HighscoreRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\HighscoreRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\HighscoreRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\HighscoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1539,9 +1527,9 @@
               "$type": "Document",
               "DocumentIndex": 99,
               "Title": "NewsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\NewsRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\NewsRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\NewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1551,9 +1539,9 @@
               "$type": "Document",
               "DocumentIndex": 100,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
               "RelativeToolTip": "Database\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1563,9 +1551,9 @@
               "$type": "Document",
               "DocumentIndex": 101,
               "Title": "ForumCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCategoryDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumCategoryDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumCategoryDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCategoryDto.cs",
               "RelativeToolTip": "API\\DTOs\\ForumCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1575,9 +1563,9 @@
               "$type": "Document",
               "DocumentIndex": 102,
               "Title": "IFAQService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IFAQService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFAQService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IFAQService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\IFAQService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFAQService.cs",
               "RelativeToolTip": "API\\Interfaces\\IFAQService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1587,9 +1575,9 @@
               "$type": "Document",
               "DocumentIndex": 103,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Database\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1599,9 +1587,9 @@
               "$type": "Document",
               "DocumentIndex": 104,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\UserDto.cs",
               "RelativeToolTip": "API\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1612,9 +1600,9 @@
               "DocumentIndex": 4,
               "Title": "20260203090216_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260203090216_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260203090216_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:02:16.989Z"
@@ -1623,9 +1611,9 @@
               "$type": "Document",
               "DocumentIndex": 105,
               "Title": "INewsArticleService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\INewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\INewsArticleService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\INewsArticleService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\Interfaces\\INewsArticleService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\INewsArticleService.cs",
               "RelativeToolTip": "API\\Interfaces\\INewsArticleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1635,9 +1623,9 @@
               "$type": "Document",
               "DocumentIndex": 106,
               "Title": "FeedbackDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\FeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\FeedbackDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\FeedbackDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\FeedbackDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\FeedbackDto.cs",
               "RelativeToolTip": "API\\DTOs\\FeedbackDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1648,9 +1636,9 @@
               "DocumentIndex": 5,
               "Title": "20260202170432_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260202170432_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260202170432_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T17:04:32.195Z"
@@ -1660,9 +1648,9 @@
               "DocumentIndex": 6,
               "Title": "20260202151751_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260202151751_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260202151751_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T15:17:51.469Z"
@@ -1671,9 +1659,9 @@
               "$type": "Document",
               "DocumentIndex": 107,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "API\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1684,9 +1672,9 @@
               "DocumentIndex": 7,
               "Title": "20260129080938_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260129080938_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260129080938_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T08:09:38.571Z"
@@ -1695,9 +1683,9 @@
               "$type": "Document",
               "DocumentIndex": 108,
               "Title": "ForumThreadDto.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumThreadDto.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumThreadDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumThreadDto.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\API\\DTOs\\ForumThreadDto.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumThreadDto.cs",
               "RelativeToolTip": "API\\DTOs\\ForumThreadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1708,9 +1696,9 @@
               "DocumentIndex": 8,
               "Title": "20260127102014_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260127102014_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260127102014_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
               "ViewState": "AgIAAJwBAAAAAAAAAAAgwLgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T10:20:14.995Z"
@@ -1720,9 +1708,9 @@
               "DocumentIndex": 9,
               "Title": "20260127092119_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260127092119_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260127092119_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T09:21:20.05Z"
@@ -1732,9 +1720,9 @@
               "DocumentIndex": 10,
               "Title": "20260127091712_added-enum-to-ratings.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T09:17:12.765Z"
@@ -1744,9 +1732,9 @@
               "DocumentIndex": 11,
               "Title": "20260127085333_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260127085333_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260127085333_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T08:53:33.704Z"
@@ -1756,9 +1744,9 @@
               "DocumentIndex": 12,
               "Title": "20260127085215_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20260127085215_init.cs",
+              "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",
-              "RelativeToolTip": "Database\\Migrations\\20260127085215_init.cs",
+              "RelativeToolTip": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T08:52:15.247Z"
