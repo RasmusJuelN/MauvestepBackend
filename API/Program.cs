@@ -47,8 +47,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 
 builder.Services.AddDbContext<Database.Context.AppDbContext>(options =>
-    //options.UseNpgsql(builder.Configuration.GetConnectionString("RenderConnection")));
-    options.UseNpgsql(builder.Configuration.GetConnectionString("LocalhostConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("RenderConnection")));
+    // options.UseNpgsql(builder.Configuration.GetConnectionString("LocalhostConnection")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
