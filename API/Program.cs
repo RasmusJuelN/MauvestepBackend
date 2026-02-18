@@ -20,7 +20,6 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactApp", policy =>
     {
         policy.WithOrigins(
-            // "http://localhost:3000", // Local development server
             "https://mauvestepfrontend.onrender.com" // Deployed app on render.com
         )
         .AllowAnyHeader() // Allow all HTTP headers (e.g., Authorization, Content-Type)

@@ -41,14 +41,15 @@ yarn-error.log*
 next-env.d.ts
 
 # Visual Studio
-MauvestepBackend/.vs/
+.vs/
 *.user
 *.suo
 
 # .NET
 bin/
 obj/
-
+*.dll
+*.exe
 # OS
 .DS_Store
 Thumbs.db

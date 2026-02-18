@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\migrations\\20260215121410_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -56,10 +76,6 @@
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\iforumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\iforumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,10 +90,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\services\\forumcommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,10 +110,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\forumpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -392,20 +400,12 @@
       "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\forumcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\dtos\\forumcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\interfaces\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|solutionrelative:api\\interfaces\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D35425A-F76F-4270-A0E1-99F152426720}|Database\\Database.csproj|solutionrelative:database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DAAA8B-CEF4-4974-B26E-52ABC0B85ECA}|API\\API.csproj|c:\\users\\rasmu\\source\\repos\\mauvestepbackend\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -435,7 +435,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -443,80 +443,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "20260215121410_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs",
               "RelativeDocumentMoniker": "Database\\Migrations\\20260215121410_init.cs",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Migrations\\20260215121410_init.cs",
               "RelativeToolTip": "Database\\Migrations\\20260215121410_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T12:14:10.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "API\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:28:37.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
-              "RelativeToolTip": "API\\Interfaces\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T10:58:23.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
-              "RelativeToolTip": "API\\Services\\JwtService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T10:57:17.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T08:06:39.789Z"
+              "WhenOpened": "2026-01-27T08:06:39.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IForumCommentService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\IForumCommentService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
-              "RelativeToolTip": "API\\Interfaces\\IForumCommentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T08:42:41.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -529,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "FeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FeedbackService.cs",
               "RelativeDocumentMoniker": "API\\Services\\FeedbackService.cs",
@@ -541,7 +494,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T16:12:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Database\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:32:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:23:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs*",
+              "RelativeToolTip": "API\\Services\\UserService.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwH0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:09:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IForumCommentService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IForumCommentService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCommentService.cs",
+              "RelativeToolTip": "API\\Interfaces\\IForumCommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:42:41.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\JwtService.cs",
+              "RelativeToolTip": "API\\Services\\JwtService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:57:17.859Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "API\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:58:23.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "API\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:28:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "API.csproj",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
@@ -553,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
@@ -565,19 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\UserService.cs",
-              "RelativeToolTip": "API\\Services\\UserService.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAUwNYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T09:09:39.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ForumCommentService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCommentService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumCommentService.cs",
@@ -589,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ForumCommentsController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCommentsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumCommentsController.cs",
@@ -601,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ForumCategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumCategoriesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumCategoriesController.cs",
@@ -613,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "IForumCategoryService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IForumCategoryService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IForumCategoryService.cs",
@@ -625,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "FeedbackController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FeedbackController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\FeedbackController.cs",
@@ -637,19 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:23:19.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ForumPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumPostRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumPostRepository.cs",
@@ -661,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ForumPostDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumPostDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumPostDto.cs",
@@ -673,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ForumCommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCommentRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumCommentRepository.cs",
@@ -685,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "FeedbackRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FeedbackRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\FeedbackRepository.cs",
@@ -697,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "ForumCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumCategoryRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumCategoryRepository.cs",
@@ -709,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "BugReportRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\BugReportRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\BugReportRepository.cs",
@@ -721,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "CharacterRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CharacterRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\CharacterRepository.cs",
@@ -733,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CommentRatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\CommentRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\CommentRatingRepository.cs",
@@ -745,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "FAQRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\FAQRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\FAQRepository.cs",
@@ -757,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "PostRatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\PostRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\PostRatingRepository.cs",
@@ -769,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "NewsArticle.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "Database\\Models\\NewsArticle.cs",
@@ -781,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ForumPostService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumPostService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumPostService.cs",
@@ -793,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "ForumThreadService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumThreadService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumThreadService.cs",
@@ -805,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ForumThreadRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\ForumThreadRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\ForumThreadRepository.cs",
@@ -817,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "FAQService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\FAQService.cs",
               "RelativeDocumentMoniker": "API\\Services\\FAQService.cs",
@@ -829,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ForumCategory.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumCategory.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumCategory.cs",
@@ -841,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ForumThread.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumThread.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumThread.cs",
@@ -853,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ForumComment.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumComment.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumComment.cs",
@@ -865,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "BugReport.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\BugReport.cs",
               "RelativeDocumentMoniker": "Database\\Models\\BugReport.cs",
@@ -877,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Character.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Character.cs",
@@ -889,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "CommentRating.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\CommentRating.cs",
               "RelativeDocumentMoniker": "Database\\Models\\CommentRating.cs",
@@ -901,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "FAQ.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\FAQ.cs",
               "RelativeDocumentMoniker": "Database\\Models\\FAQ.cs",
@@ -913,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "ForumPost.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\ForumPost.cs",
               "RelativeDocumentMoniker": "Database\\Models\\ForumPost.cs",
@@ -925,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Highscore.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Highscore.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Highscore.cs",
@@ -937,7 +966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "PostRating.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\PostRating.cs",
               "RelativeDocumentMoniker": "Database\\Models\\PostRating.cs",
@@ -949,7 +978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\User.cs",
               "RelativeDocumentMoniker": "Database\\Models\\User.cs",
@@ -961,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "SupportTicket.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\SupportTicket.cs",
               "RelativeDocumentMoniker": "Database\\Models\\SupportTicket.cs",
@@ -973,7 +1002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Feedback.cs",
@@ -985,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "ForumCommentDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCommentDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumCommentDto.cs",
@@ -997,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "ForumPostsController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumPostsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumPostsController.cs",
@@ -1009,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "HighscoresController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\HighscoresController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\HighscoresController.cs",
@@ -1021,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "AbilityDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\AbilityDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\AbilityDto.cs",
@@ -1033,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "AbilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\AbilityRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\AbilityRepository.cs",
@@ -1045,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "IAbilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IAbilityRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IAbilityRepository.cs",
@@ -1057,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "Ability.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Models\\Ability.cs",
               "RelativeDocumentMoniker": "Database\\Models\\Ability.cs",
@@ -1069,7 +1098,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "ICharacterRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICharacterRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ICharacterRepository.cs",
@@ -1081,7 +1110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "ICharacterService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\ICharacterService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\ICharacterService.cs",
@@ -1093,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "IAbilityService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IAbilityService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IAbilityService.cs",
@@ -1105,7 +1134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "SupportTicketDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\SupportTicketDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\SupportTicketDto.cs",
@@ -1117,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "NewsArticleDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\NewsArticleDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\NewsArticleDto.cs",
@@ -1129,7 +1158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "HighscoreDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\HighscoreDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\HighscoreDto.cs",
@@ -1141,7 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "AbilitiesController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\AbilitiesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AbilitiesController.cs",
@@ -1153,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "CharactersController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\CharactersController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CharactersController.cs",
@@ -1165,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "CharacterDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\CharacterDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\CharacterDto.cs",
@@ -1177,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "ForumCategoryService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\ForumCategoryService.cs",
               "RelativeDocumentMoniker": "API\\Services\\ForumCategoryService.cs",
@@ -1189,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Database\\Context\\AppDbContext.cs",
@@ -1201,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IUserRepository.cs",
@@ -1213,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "ISupportTicketRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ISupportTicketRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ISupportTicketRepository.cs",
@@ -1225,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IRepository.cs",
@@ -1237,7 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "INewsArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\INewsArticleRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\INewsArticleRepository.cs",
@@ -1249,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "IHighscoreRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IHighscoreRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IHighscoreRepository.cs",
@@ -1261,7 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "IForumThreadRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumThreadRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumThreadRepository.cs",
@@ -1273,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "IForumPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumPostRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumPostRepository.cs",
@@ -1285,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "IForumCommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCommentRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumCommentRepository.cs",
@@ -1297,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "IForumCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IForumCategoryRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IForumCategoryRepository.cs",
@@ -1309,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "IFeedbackRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFeedbackRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IFeedbackRepository.cs",
@@ -1321,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "IFAQRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IFAQRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IFAQRepository.cs",
@@ -1333,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "IBugReportRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\IBugReportRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\IBugReportRepository.cs",
@@ -1345,7 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "ICommentRatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Interfaces\\ICommentRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Interfaces\\ICommentRatingRepository.cs",
@@ -1357,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "SupportTicketService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\SupportTicketService.cs",
               "RelativeDocumentMoniker": "API\\Services\\SupportTicketService.cs",
@@ -1369,7 +1398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "NewsArticleService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\NewsArticleService.cs",
               "RelativeDocumentMoniker": "API\\Services\\NewsArticleService.cs",
@@ -1381,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "HighscoreService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Services\\HighscoreService.cs",
               "RelativeDocumentMoniker": "API\\Services\\HighscoreService.cs",
@@ -1393,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 92,
               "Title": "Database.csproj",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Database.csproj",
               "RelativeDocumentMoniker": "Database\\Database.csproj",
@@ -1405,7 +1434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 93,
               "Title": "SupportTicketsController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\SupportTicketsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\SupportTicketsController.cs",
@@ -1417,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "20260208094646_addrating.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260208094646_addrating.cs",
@@ -1429,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "20260206092528_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260206092528_init.cs",
@@ -1441,7 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "ForumThreadsController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\ForumThreadsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ForumThreadsController.cs",
@@ -1453,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 95,
               "Title": "FAQController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\FAQController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\FAQController.cs",
@@ -1465,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 96,
               "Title": "BugReportsController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\BugReportsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BugReportsController.cs",
@@ -1477,7 +1506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 97,
               "Title": "IBugReportService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IBugReportService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IBugReportService.cs",
@@ -1489,7 +1518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 98,
               "Title": "NewsArticlesController.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Controllers\\NewsArticlesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\NewsArticlesController.cs",
@@ -1501,7 +1530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 99,
               "Title": "IFeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFeedbackService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IFeedbackService.cs",
@@ -1513,7 +1542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 100,
               "Title": "HighscoreRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\HighscoreRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\HighscoreRepository.cs",
@@ -1525,7 +1554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 101,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\NewsRepository.cs",
@@ -1537,19 +1566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Database\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Database\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:32:19.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "ForumCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\DTOs\\ForumCategoryDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\ForumCategoryDto.cs",
@@ -1561,7 +1578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "IFAQService.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\API\\Interfaces\\IFAQService.cs",
               "RelativeDocumentMoniker": "API\\Interfaces\\IFAQService.cs",
@@ -1570,18 +1587,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T08:46:05.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 103,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Database\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\MauvestepBackend\\Database\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Database\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:12:32.895Z"
             },
             {
               "$type": "Document",
@@ -1597,7 +1602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "20260203090216_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260203090216_init.cs",
@@ -1633,7 +1638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "20260202170432_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202170432_init.cs",
@@ -1645,7 +1650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "20260202151751_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260202151751_init.cs",
@@ -1669,7 +1674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "20260129080938_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260129080938_init.cs",
@@ -1693,7 +1698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "20260127102014_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127102014_init.cs",
@@ -1705,7 +1710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "20260127092119_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127092119_init.cs",
@@ -1717,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "20260127091712_added-enum-to-ratings.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127091712_added-enum-to-ratings.cs",
@@ -1729,7 +1734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "20260127085333_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085333_init.cs",
@@ -1741,7 +1746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "20260127085215_init.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",
               "RelativeDocumentMoniker": "..\\Mauvestep-Project\\MauvestepBackend\\Database\\Migrations\\20260127085215_init.cs",

@@ -15,6 +15,7 @@ namespace API.DTOs
     public class CreateHighscoreDto
     {
         public string BossName { get; set; } = null!;
+        public string Username { get; set; } = null!;
         public int Score { get; set; }
     }
 }
