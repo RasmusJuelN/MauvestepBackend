@@ -37,8 +37,10 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuerSigningKey = true, // Validate the signing key to ensure the token is authentic
             // Secret key used to sign the token
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"])), 
-            ValidateIssuer = false,
-            ValidateAudience = false,
+            ValidateIssuer = true,
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],  
+            ValidateAudience = true,
+            ValidAudience = builder.Configuration["Jwt:Audience"],  
             ValidateLifetime = true, // Validate token expiration
             ClockSkew = TimeSpan.Zero 
         };
