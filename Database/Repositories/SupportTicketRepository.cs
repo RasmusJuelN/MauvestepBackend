@@ -15,19 +15,42 @@ namespace Database.Repositories
         {
         }
 
+       public override async Task<SupportTicket?> GetByIdAsync(Guid id)
+        {
+            return await _dbSet
+                .Include(t => t.User)
+                .FirstOrDefaultAsync(t => t.Id == id);
+        }
+
+        public override async Task<IEnumerable<SupportTicket>> GetAllAsync()
+        {
+            return await _dbSet
+                .Include(t => t.User)
+                .ToListAsync();
+        }
+
         public async Task<IEnumerable<SupportTicket>> GetTicketsByUserAsync(Guid userId)
         {
-            return await FindAsync(t => t.UserId == userId);
+            return await _dbSet
+                .Include(t => t.User)
+                .Where(t => t.UserId == userId)
+                .ToListAsync();
         }
 
         public async Task<IEnumerable<SupportTicket>> GetTicketsByStatusAsync(SupportTicketStatus status)
         {
-            return await FindAsync(t => t.Status == status);
+            return await _dbSet
+                .Include(t => t.User)
+                .Where(t => t.Status == status)
+                .ToListAsync();
         }
 
         public async Task<IEnumerable<SupportTicket>> GetOpenTicketsAsync()
         {
-            return await FindAsync(t => t.Status == SupportTicketStatus.Open);
+            return await _dbSet
+                .Include(t => t.User)
+                .Where(t => t.Status == SupportTicketStatus.Open)
+                .ToListAsync();
         }
     }
 }
